@@ -2,7 +2,7 @@
 
 🎓 Computer Science Engineering - Artifical Intelligence Freshman @ IGDTUW, Delhi
 
-🚀 Passionate about Machine Learning, Coding, Reading, Video Editing, and Graphic Designing.
+🚀 Passionate about Coding, Reading, Video Editing, and Graphic Designing.
 
 ## 🛠️ Tech Stack
 - Python | SQL | Java
