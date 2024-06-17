@@ -5,11 +5,14 @@
 🚀 Passionate about Coding, Video Editing, and Graphic Designing.
 
 ## 🛠️ Tech Stack
-- Python | SQL 
+- Python
+- SQL
+- HTML
 
 ## 🌱 Currently Learning
-- Exploring the world of Java
-- Diving deep into the realms of Machine Learning
+- CSS
+- Java
+- Machine Learning
 
 ## 🚀 Interests
 - **Coding**: Solving problems and building cool projects
