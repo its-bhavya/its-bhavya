@@ -1,17 +1,21 @@
 # 👋 Hi there, I'm Bhavya!
 
-🎓 Computer Science Engineering - Artifical Intelligence Freshman @ IGDTUW, Delhi
+Currently a Computer Science Engineering - Artifical Intelligence Sophomore @ IGDTUW, Delhi
 
-🚀 Passionate about Coding, Video Editing, and Graphic Designing.
+I am passionate about Coding, Video Editing, and Graphic Designing.
 
-## 🛠️ Tech Stack
+##  Languages & Skills
 - Python
 - SQL
-- HTML
+- Java
+- Tableau
+- Canva
+- Photoshop
+- Premier Pro
+- Shotcut
 
 ## 🌱 Currently Learning
-- CSS
-- Java
+- Web Development
 - Machine Learning
 
 ## 🚀 Interests
@@ -22,6 +26,4 @@
 
 ## 🤝 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/bhavya-b4ab78287/)
-
-📚 Open to collaboration and learning from the community. Excited to grow and contribute to the tech world!
 
