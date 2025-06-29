@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Bhavya<br><br>I'm a Computer Science undergrad exploring AI and (trying to explore) Web Development.   <br>Currently working on agentic AI systems, mindmap generators, and things that make learning feel less like homework.<br><br>When I'm not writing code, I’m either:
+Hi, I'm Bhavya<br><br>I'm a Computer Science undergrad exploring AI and (trying to explore) Web Development. <br><br>When I'm not writing code, I’m either:
 - editing videos like I’m telling a story in frames,  
 - deep in a book that makes me forget time, or  
 - journalling in a way that helps me debug thoughts.
